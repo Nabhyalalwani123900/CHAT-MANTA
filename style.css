@@ -81,7 +81,7 @@ background-image: linear-gradient(to right top, #001eff, #00cffe, #00ffa6, #fcfc
 }
 .color_white
 {
-	color: white
+	color: rgb(0, 0, 0)
 }
 
 .user_tick
@@ -92,3 +92,4 @@ background-image: linear-gradient(to right top, #001eff, #00cffe, #00ffa6, #fcfc
 {
 	padding-left:5px;color:grey;
 }
+
